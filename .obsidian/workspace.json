@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day_8_Minesweeper.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day_8_Minesweeper"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day_8_Minesweeper.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day_8_Minesweeper"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -164,8 +164,8 @@
   },
   "active": "0cb803420145812f",
   "lastOpenFiles": [
-    "README.md",
     "Day_8_Minesweeper.md",
+    "README.md",
     "images/Pasted_image_20250109103819.png",
     "images/Pasted_image_20250108185625.png",
     "Day 8.md",

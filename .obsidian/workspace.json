@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de301fe1f906f860",
+            "id": "0cb803420145812f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "0cb803420145812f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day_8_Minesweeper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day_8_Minesweeper"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +164,9 @@
   },
   "active": "0cb803420145812f",
   "lastOpenFiles": [
-    "README.md",
     "Day_8_Minesweeper.md",
+    "Day 8.md",
+    "README.md",
     "images/Pasted image 20250109103819.png",
     "images/Pasted image 20250108185625.png",
     "images"

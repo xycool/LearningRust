@@ -1,0 +1,45 @@
+pub fn annotate(minefield: &[&str]) -> Vec<String> {
+    let rows = minefield.len();
+    if rows == 0 {
+        return Vec::new();
+    }
+    let cols = minefield[0].len();
+
+    let mut annotated_field: Vec<String> = Vec::with_capacity(rows);
+
+    for r in 0..rows {
+        let mut annotated_row = String::with_capacity(cols);
+        for c in 0..cols {
+            if minefield[r].as_bytes()[c] as char == '*' {
+                annotated_row.push('*');
+                continue;
+            }
+
+            let mut count = 0;
+            for dr in -1..=1 {
+                for dc in -1..=1 {
+                    if dr == 0 && dc == 0 {
+                        continue;
+                    }
+
+                    let nr = r as i32 + dr;
+                    let nc = c as i32 + dc;
+
+                    if nr >= 0 && nr < rows as i32 && nc >= 0 && nc < cols as i32 {
+                        if minefield[nr as usize].as_bytes()[nc as usize] as char == '*' {
+                            count += 1;
+                        }
+                    }
+                }
+            }
+            if count > 0 {
+                annotated_row.push(std::char::from_digit(count, 10).unwrap());
+            } else {
+                annotated_row.push(' ');
+            }
+        }
+        annotated_field.push(annotated_row);
+    }
+
+    annotated_field
+}

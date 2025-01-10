@@ -1,0 +1,39 @@
+오라클 클라우드(무료 버전)
+
+
+change shell from bash to zsh with oh-my-zsh
+
+bash to zsh
+
+install omz(oh-my-zsh)
+
+https://ohmyz.sh/
+
+zsh is not installed
+=> sudo apt install zsh
+
+plugin
+theme
+
+omz theme list
+omz theme set agnoster
+
+
+
+install rust
+
+	https://www.rust-lang.org/tools/install
+
+	curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+install neovim
+
+
+install base configuration
+
+rustaceanvim 설치 후 rust-analyzer 오류가 발생하면 아래 링크 참고
+
+https://github.com/LazyVim/LazyVim/discussions/3549
+
+
+

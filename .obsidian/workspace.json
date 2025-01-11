@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day_11_Armstrong Numbers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day_11_Armstrong Numbers"
+              "title": "README"
             }
           }
         ],
@@ -207,9 +207,9 @@
   },
   "active": "c3a73a484273202c",
   "lastOpenFiles": [
+    "Day_11_Armstrong Numbers.md",
     "Day_8_Minesweeper.md",
     "Day_10_Luhn.md",
-    "Day_11_Armstrong Numbers.md",
     "README.md",
     "images/day10_01.png",
     "Day_7_Space Age.md",

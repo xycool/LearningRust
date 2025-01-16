@@ -13,5 +13,8 @@
 | [Day_12](Day_12_Beer%20Song.md)               | 🍺 Beer Song            | 반복되는 노래 가사를 출력하는 과제              | 2025.01.13 |
 | [Day_13](Day_13_Difference%20of%20squares.md) | ∑ Difference of squares | 자연수의 합에 대한 과제                    | 2025.01.14 |
 
+### 유용한 사이트
+
+- Just Do Rust - 기초부터 고급까지 : https://wikidocs.net/book/16747   👍 강추
 
 

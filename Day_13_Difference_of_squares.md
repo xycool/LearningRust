@@ -37,8 +37,10 @@ fn main() {
 
 이렇게 자신만만 할 때 커뮤니티 솔루션에는 아주 엄청난 버전이 있더란 말이지. 😳👽 외계인 아님? 강호 무림에는 엄청난 내공의 소유자들이 득실거린단 말이지. 졌다. 🙇‍♂️
 
-👍👍외계인 버전  
+👍👍외계인 버전 
+
 수학의 등차수열과 자연수 제곱의 합의 개념으로 iterator를 사용하지 않고 해결한 버전 !!
+
 https://exercism.org/tracks/rust/exercises/difference-of-squares/solutions/dfaligertwood
 
 gemini에게 설명해 달라고 했다 😅 
